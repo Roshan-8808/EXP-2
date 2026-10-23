@@ -58,7 +58,7 @@ Model graph:
 
 Calculation
 
-<img width="138" height="260" alt="image" src="https://github.com/user-attachments/assets/c1cb8503-d758-433a-be90-d617116a26ee" />
+<img width="438" height="260" alt="image" src="https://github.com/user-attachments/assets/c1cb8503-d758-433a-be90-d617116a26ee" />
 
 Magnetisation load Characteristics
 
@@ -74,7 +74,7 @@ Model graph
 Calculation
 
 
-<img width="120" height="250" alt="image" src="https://github.com/user-attachments/assets/77ed7d31-bcb5-41eb-9fce-edfd3f71d4f9" />
+<img width="420" height="250" alt="image" src="https://github.com/user-attachments/assets/77ed7d31-bcb5-41eb-9fce-edfd3f71d4f9" />
 
 
 
